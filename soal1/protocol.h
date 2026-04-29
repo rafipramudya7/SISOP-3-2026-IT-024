@@ -9,7 +9,7 @@
 #include <time.h>
 #define SERVER_HOST "127.0.0.1"
 #define SERVER_PORT 5000
-#define ADMIN_PASSWORD "protocol7"
+#define ADMIN_PASSWORD "lembuBerkah"
 #define LOG_FILE "history.log"
 typedef enum
 {
